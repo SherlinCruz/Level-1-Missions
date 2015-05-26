@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Clipping Web Fonts</title>
+
+    <!--Objective 1: 
+    	Create a stylesheet in the css folder and link it to this page.
+    	All of the styling for this mission should go in that file.
+    -->
+ 
+</head>
+<body>
+
+    <!--Objective 2:
+        Create a div with an id named after your first name (i.e., id="sunny")
+        Add an image to your div as a background
+        Set left:0px and top:0px
+        Set width:100% and height:100%
+    -->   
+
+    <!--Objective 3:
+        Add your name in H1 text inside the div
+        Change font to be a google web font - http://www.google.com/fonts
+        Set font size to be at least 80px
+    -->
+
+    <!--Objective 4:
+        clip the image to the div so that it fits around your H1 tag
+        Reference: http://nimbupani.com/using-background-clip-for-text-with-css-fallback.html
+    -->
+
+</body>
+</html>
